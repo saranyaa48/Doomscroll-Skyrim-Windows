@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+venv/
+.venv/
+venv311/
+
+.vscode/
+
+Thumbs.db
+
+face_landmarker.task
